@@ -12,11 +12,13 @@ See, I know lots of Python but I never have the chance to keep using and doing
 the "rinse and repeat" method I did in previous occupations so I think it
 is about time I put all the little (I mean that) fragments off knowledege together.
 
-I was doing a very easy challenge on HTB just recently and it got to the flag.
-The flag happened to be a string of Base64 but reversed so I stuffed into an
+I was doing a very easy challenge on HTB just recently and I got to the flag.
+The flag happened to be a string of Base64 but reversed so I stuffed it into an
 online tool and got the challenge complete. I knew when I was doing this I could 
-produce a tool in Python to do this so went back and with the help if Google
-crested a tool that worked.
+produce a tool in Python to do this so went back and with the help of Google
+created a tool that worked.
+
+---
 
 ### <samp>The Base64 Encoded Reverse String Converter.</samp>
 
